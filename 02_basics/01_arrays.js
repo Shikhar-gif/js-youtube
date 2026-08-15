@@ -24,6 +24,7 @@ console.log(myArr);
 
 const newArr = myArr.join();
 console.log(newArr);
+// returns string
 
 
 // slice and splice
